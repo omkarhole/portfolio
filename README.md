@@ -4,6 +4,7 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 
 ![Portfolio Screenshot](public/Screenshot%202025-08-30%20212554.png)
 
+
 ## ✨ Features
 
 - 🎨 **Modern Design** - Clean and professional UI with smooth animations
@@ -176,9 +177,9 @@ npm run build
 
 ## 📞 Contact
 
-**Omkar Hole** - [@omkarhole314](https://twitter.com/omkarhole314) - omkarhole314@gmail.com
+**Omkar Hole** - [@Linkedin](https://www.linkedin.com/in/omkar-hole-c0der/) 
 
-Project Link: [https://github.com/omkarhole/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [Portfolio](https://github.com/yourusername/portfolio)
 
 ---
 

@@ -12,7 +12,7 @@ function Section1() {
                                 </div>
                                 <div>
                                     <h4>Email</h4>
-                                    <a href="mailto:omkarhole314@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">omkarhole314@gmail.com</a>
+                                    <a href="mailto:omkarhole314@gmail.com" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">omkarhole314@gmail.com</a>
                                 </div>
                             </div>
                             <div className="flex items-start space-x-4">

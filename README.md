@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. Features a beautiful star background animation, dark/light theme toggle, and interactive sections to showcase projects and skills.
 
 ![Portfolio Screenshot](public/Screenshot%202025-08-30%20212554.png)
-
+![Portfolio Screenshot](public/3.png)
 
 ## ✨ Features
 

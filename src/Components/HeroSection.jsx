@@ -1,8 +1,11 @@
 import { ArrowDown } from "lucide-react";
-
+import BlurText from "./ui/BlurText";  
 
 
 function HeroSection() {
+    const handleAnimationComplete = () => {
+  console.log('Animation completed!');
+};
     return (
         <section id="hero" className="relative min-h-screen flex flex-col items-center justify-center px-4">
             <div className="container max-w-4xl mx-auto text-center z-10">
@@ -13,8 +16,15 @@ function HeroSection() {
                         <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">Hole</span>
                     </h1>
                     <p className="text-lg s:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        Full Stack Developer & CS student skilled in building full-stack apps with MongoDB, Express, React, and Node.js. Passionate about real-world projects, clean code, and continuous learning.
-                    </p>
+                      
+<BlurText
+  text="Full Stack Developer & CS student skilled in building full-stack apps with MongoDB, Express, React, and Node.js. Passionate about real-world projects, clean code, and continuous learning."
+  delay={20}
+  animateBy="words"
+  direction="top"
+  onAnimationComplete={handleAnimationComplete}
+  className="text-lg s:text-xl text-muted-foreground max-2-2xl mx-auto "
+/>                    </p>
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                         <a href="#Projects" className="cosmic-button">
                             View My Work

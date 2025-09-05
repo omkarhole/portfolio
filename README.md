@@ -2,8 +2,10 @@
 
 A modern, responsive portfolio website built with React, Vite, and Tailwind CSS. Features a beautiful star background animation, dark/light theme toggle, and interactive sections to showcase projects and skills.
 
-## ScreenShorts
+## ScreenShots
 
+![Portfolio Screenshot](public/Screenshot%202025-08-30%20212554.png)
+![Portfolio Screenshot](public/3.png)
 ![Portfolio Screenshot](1.png)
 ![Portfolio Screenshot](2.png)
 ![Portfolio Screenshot](3.png)
@@ -179,8 +181,14 @@ npm run build
 
 ## 📞 Contact
 
+<<<<<<< HEAD
 **Omkar Hole** - [@omkarhole314](https://twitter.com/omkarhole314) - omkarhole314@gmail.com
 Project Link: [https://github.com/omkarhole/portfolio](https://github.com/yourusername/portfolio)
+=======
+**Omkar Hole** - [@Linkedin](https://www.linkedin.com/in/omkar-hole-c0der/) 
+
+Project Link: [Portfolio](https://github.com/yourusername/portfolio)
+>>>>>>> a55dd795730698d38003363628accbaeb858dfd9
 
 
 ---

@@ -14,7 +14,7 @@ const projects = [
 
     },
     {
-        id: 3,
+        id: 2,
         title: "Hotel Booking Platform",
         description: "A platform to explore hotels, rate them, and view their locations.",
         image: "/projects/project2.png",
@@ -24,7 +24,7 @@ const projects = [
 
     },
     {
-        id: 2,
+        id: 3,
         title: "Video Streaming Platform",
         description: "A modern video calling platform built with Next.js, Stream Video SDK, and Clerk authentication. Create instant meetings, schedule calls, and enjoy high-quality video communication.",
         image: "/projects/project3.png",

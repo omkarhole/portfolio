@@ -27,7 +27,7 @@ const projects = [
         id: 3,
         title: "Video Streaming Platform",
         description: "A modern video calling platform built with Next.js, Stream Video SDK, and Clerk authentication. Create instant meetings, schedule calls, and enjoy high-quality video communication.",
-        image: "/projects/project3.png",
+        image: "/projects/voom.png",
         tags: ["Next.js", "Tailwind CSS", "Clerk", "Shadcn/ui"],
         demoURL: "https://voom-one.vercel.app/",
         githubUrl: "https://github.com/omkarhole/Video-Stream-platform",

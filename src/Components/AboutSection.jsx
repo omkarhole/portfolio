@@ -16,7 +16,7 @@ function AboutSection() {
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
 
                             <a href="#Contact" className="cosmic-button">Get In Touch</a>
-                            <a href="https://drive.google.com/file/d/1K9RnKnJYBqEJBeW6H-auGHE5C9FnTies/view?usp=sharing" target="_blank" className="px-6 py-2  rounded-full border border-primary text-primary hover:bg-primary/20 transition-colors duration-300">Download CV</a>
+                            <a href="https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view?usp=sharing" target="_blank" className="px-6 py-2  rounded-full border border-primary text-primary hover:bg-primary/20 transition-colors duration-300">Download CV</a>
                         </div>
                     </div>
                     <div className="grid grid-cols-1 gap-6">

@@ -68,7 +68,7 @@ export const NavBar = () => {
                 )}>
                     <div className="flex flex-col space-x-8 text-xl">
                         {navItems.map((item, key) => (
-                            <a key={key} href={item.href} className="text-foreground/80 hover:text-primary transition-colors duration-400"
+                            <a key={key} href={item.href} className="text-foreground/80 hover:text-primary transition-colors duration-400 "
                                 onClick={() => setIsMenuOpen(false)}>
                                 {item.name}
                             </a>

@@ -5,26 +5,6 @@ import {ArrowRight, ExternalLink,Github} from "lucide-react";
 const projects = [
     {
         id: 1,
-        title: "Web Trading platform",
-        description: "A web app for stock trading with portfolio tracking and real-time market data.",
-        image: "/projects/project1.png",
-        tags: ["React", "Material UI", "MongoDB", "Express", "Node.js"],
-        demoURL: "https://zerodha-c7dx.onrender.com/",
-        githubUrl: "https://github.com/omkarhole/web-trading-platform",
-
-    },
-    {
-        id: 2,
-        title: "Hotel Booking Platform",
-        description: "A platform to explore hotels, rate them, and view their locations.",
-        image: "/projects/project2.png",
-        tags: ["Node.js", "Bootstrap", "MongoDB", "Express"],
-        demoURL: "https://majorproject-1-9p07.onrender.com/listings",
-        githubUrl: "https://github.com/omkarhole/majorproject",
-
-    },
-    {
-        id: 3,
         title: "Video Streaming Platform",
         description: "A modern video calling platform built with Next.js, Stream Video SDK, and Clerk authentication. Create instant meetings, schedule calls, and enjoy high-quality video communication.",
         image: "/projects/voom.png",
@@ -32,7 +12,27 @@ const projects = [
         demoURL: "https://voom-one.vercel.app/",
         githubUrl: "https://github.com/omkarhole/Video-Stream-platform",
     },
+    {
+        id: 2,
+        title: "Wanderlust-Hotel-Booking",
+        description: "Complete hotel booking platform — shows CRUD, authentication, and business logic",
+        image: "/projects/project2.png",
+        tags: ["Node.js", "Bootstrap", "MongoDB", "Express"],
+        demoURL: "https://majorproject-1-9p07.onrender.com/listings",
+        githubUrl: "https://github.com/omkarhole/majorproject",
+        
+    },
+    {
+        id: 3,
+        title: "Realtime-Chatapp",
+        description: "Real-time messaging app — demonstrates WebSocket/real-time tech and is highly impressive to recruiters",
+        image: "/projects/3.png",
+        tags: ["React", "Socket.io", "MongoDB", "Express", "Node.js"],
+        demoURL: "",
+        githubUrl: "https://github.com/omkarhole/Realtime-Chatapp",
 
+    },
+        
 ]
 
 function ProjectsSection() {

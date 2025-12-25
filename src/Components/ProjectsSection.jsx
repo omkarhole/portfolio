@@ -28,7 +28,7 @@ const projects = [
         description: "Real-time messaging app — demonstrates WebSocket/real-time tech and is highly impressive to recruiters",
         image: "/projects/3.png",
         tags: ["React", "Socket.io", "MongoDB", "Express", "Node.js"],
-        demoURL: "",
+        demoURL: "https://realtime-chatapp-seven.vercel.app/",
         githubUrl: "https://github.com/omkarhole/Realtime-Chatapp",
 
     },
